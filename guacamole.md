@@ -3,5 +3,5 @@
 - tomato
 - lime
 
-# Istructions
+# Instructions
 Put it *all* in the blender
