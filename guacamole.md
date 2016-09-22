@@ -2,6 +2,6 @@
 - avocado
 - tomato
 - lime
-# 
-Istructions
+
+# Istructions
 Put it *all* in the blender
